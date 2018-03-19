@@ -1,5 +1,6 @@
 *.pyc
 *.db
+*.zip
 .idea/
 venv/
 logs/
